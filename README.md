@@ -5,7 +5,7 @@
 | <img src='https://github.com/Bilol4391/climate_app/blob/main/assets/readme/Screenshot%202023-02-03%20at%2003.45.49.png' width='500'>|<img src='https://github.com/Bilol4391/climate_app/blob/main/assets/readme/Screenshot%202023-02-03%20at%2003.45.24.png' width='500'> |
 |:---:|--------|
 
-- [x] Works on all desktops, tablets and mobiles
+[//]: # (- [x] Works on all desktops, tablets and mobiles)
 
 
 
